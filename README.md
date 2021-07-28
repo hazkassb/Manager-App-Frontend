@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
+Complete front end application for the the spring boot app located here --> https://github.com/hazkassb/Employee-Manangement-App 
+This is a single page app built in angular and spring boot
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
